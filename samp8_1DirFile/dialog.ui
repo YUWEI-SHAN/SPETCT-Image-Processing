@@ -35,14 +35,14 @@
        <enum>QFrame::Shape::StyledPanel</enum>
       </property>
       <property name="currentIndex">
-       <number>2</number>
+       <number>6</number>
       </property>
       <widget class="QWidget" name="pageApp">
        <property name="geometry">
         <rect>
          <x>0</x>
          <y>0</y>
-         <width>332</width>
+         <width>398</width>
          <height>379</height>
         </rect>
        </property>
@@ -182,7 +182,7 @@
         <rect>
          <x>0</x>
          <y>0</y>
-         <width>332</width>
+         <width>398</width>
          <height>379</height>
         </rect>
        </property>
@@ -379,7 +379,7 @@
         <rect>
          <x>0</x>
          <y>0</y>
-         <width>332</width>
+         <width>398</width>
          <height>379</height>
         </rect>
        </property>
@@ -724,8 +724,8 @@
        <property name="geometry">
         <rect>
          <x>0</x>
-         <y>0</y>
-         <width>318</width>
+         <y>-103</y>
+         <width>384</width>
          <height>482</height>
         </rect>
        </property>
@@ -1117,7 +1117,7 @@
         <rect>
          <x>0</x>
          <y>0</y>
-         <width>332</width>
+         <width>398</width>
          <height>379</height>
         </rect>
        </property>
@@ -1196,7 +1196,7 @@
         <rect>
          <x>0</x>
          <y>0</y>
-         <width>332</width>
+         <width>398</width>
          <height>379</height>
         </rect>
        </property>
@@ -1260,7 +1260,7 @@
         <rect>
          <x>0</x>
          <y>0</y>
-         <width>332</width>
+         <width>398</width>
          <height>379</height>
         </rect>
        </property>
